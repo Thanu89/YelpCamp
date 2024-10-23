@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About This Project:
 A website that allows users to create accounts and have CRUD functionalities for camps, which then show up on the map dynamically. Deployed with Render: https://yelpcamp-k9ll.onrender.com
 
 
